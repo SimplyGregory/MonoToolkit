@@ -3,7 +3,7 @@
 Computer science enthusiast tooling project focused on **Unity / Mono** workflows and **reverse engineering**.
 A clean, practical CLI for finding Mono processes, injecting a managed core, and running C# scripts inside an attached process.
 
-<img src="[https://github.com/SimplyGregory/SimplyGregory/blob/main/images/matrix.gif](https://raw.githubusercontent.com/SimplyGregory/SimplyGregory/main/images/matrix.gif)" alt="Matrix animation" align="right" width="220" />
+<img src="https://raw.githubusercontent.com/SimplyGregory/SimplyGregory/main/images/matrix.gif" alt="Matrix animation" align="right" width="220" />
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](#)
@@ -79,4 +79,5 @@ Injection tooling can break processes, trip anti-cheat, or violate terms of serv
 - YouTube: https://www.youtube.com/@ModSpidr
 - Portfolio: https://gregorybridges.dev
 - Email: contact@gregorybridges.dev
+
 
