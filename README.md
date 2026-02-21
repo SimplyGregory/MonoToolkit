@@ -3,7 +3,7 @@
 Computer science enthusiast tooling project focused on **Unity / Mono** workflows and **reverse engineering**.
 A clean, practical CLI for finding Mono processes, injecting a managed core, and running C# scripts inside an attached process.
 
-<img src="./images/matrix.gif" alt="Matrix animation" align="right" width="220" />
+<img src="https://github.com/SimplyGregory/SimplyGregory/blob/main/images/matrix.gif" alt="Matrix animation" align="right" width="220" />
 
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](#)
@@ -35,8 +35,8 @@ A clean, practical CLI for finding Mono processes, injecting a managed core, and
 - `attach <PID|process_name>` — attach + inject core
 - `status` — show attached process status
 - `detach <PID>` — signal shutdown + cleanup
-- `inject <pid> <dllname>` — inject an additional DLL from the exe directory
-- `run <pid> <script.cs>` — compile + run a script from the exe directory
+- `inject <pid> <dllname>` — inject an additional DLL from the `Mods/` folder next to the exe
+- `run <pid> <script.cs>` — compile + run a script from the `Mods/` folder next to the exe
 - `clear` / `cls` — clear screen
 - `exit` — quit
 
